@@ -1,4 +1,4 @@
-# databases
+# Flutter Databases with SQFLite
 
 A new Flutter project.
 
